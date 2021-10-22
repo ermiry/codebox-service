@@ -2,8 +2,8 @@ from cerver.utils import LOG_TYPE_NONE, cerver_log_both
 
 CODEBOX_VERSION = "0.1"
 CODEBOX_VERSION_NAME = "Version 0.1"
-CODEBOX_VERSION_DATE = "21/10/2021"
-CODEBOX_VERSION_TIME = "23:26 CST"
+CODEBOX_VERSION_DATE = "22/10/2021"
+CODEBOX_VERSION_TIME = "18:04 CST"
 CODEBOX_VERSION_AUTHOR = "Erick Salas"
 
 def codebox_version_print_full ():
